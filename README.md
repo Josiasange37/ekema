@@ -83,3 +83,4 @@ Procedures are stored in `assets/json/procedures.json`. Example structure:
 
 Created for **GCD4F 2026 — IA pour la Société (Cameroun)**.
 Intended for social impact and administrative transparency.
+# ekema
